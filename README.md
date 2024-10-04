@@ -2,7 +2,7 @@
  Inspired after getting an Amazon Alexa Pod
  
  
- ![Project Overview]([Screenshot 2024-10-04 at 17.04.29.png](Screenshot%202024-10-04%20at%2017.04.29.png))
+ ![Project Overview]((Screenshot%202024-10-04%20at%2017.04.29.png))
 
 
 
